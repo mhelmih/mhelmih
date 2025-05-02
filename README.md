@@ -1,14 +1,7 @@
 <h2 align="left">Hi there 👋 I'm Helmi, a Software Engineer</h2>
 
-###
-
-<br clear="both">
-
 <p align="left">I'm currently a graduate student at the Master's Program in Informatics  ITB (software engineering track) and am interested in web design and development. I always love to learn new things and do challenges that require creativity, good teamwork, and problem-solving skill. ✨✨</p>
 
-###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhelmih/mhelmih/output/pacman-contribution-graph-dark.svg">
@@ -16,9 +9,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mhelmih/mhelmih/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhelmih&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
@@ -29,13 +19,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Technologies</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
@@ -85,13 +71,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Let's Connect!</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mhelmih/" target="_blank">
