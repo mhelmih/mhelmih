@@ -75,7 +75,7 @@
   <a href="https://www.instagram.com/helmihbtl/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
   </a>
-  <a href="helmihibatullah52@gmail.com" target="_blank">
+  <a href="mailto:helmihibatullah52@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
   </a>
 </div>
